@@ -1,3 +1,3 @@
-# flutter_application_2
+# flutter_application_main
 
 A new Flutter project.
